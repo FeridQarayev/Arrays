@@ -1,17 +1,17 @@
 function sum(a,b){
-    return a+b;
+    return a+b;            // O(1) — Constant Complexity
 }
 
 function multiply(a,b){
-    return a*b;
+    return a*b;          // O(1) — Constant Complexity
 }
 
 function subtract(a,b){
-    return a-b;
+    return a-b;          // O(1) — Constant Complexity
 }
 
 function divide(a,b){
-    return b/a;
+    return b/a;         // O(1) — Constant Complexity
 }
 
 let result=sum(3,1)
